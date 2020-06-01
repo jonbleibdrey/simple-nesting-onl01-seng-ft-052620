@@ -92,8 +92,6 @@ programmer_hash = {
 }
 }
 
-programmer_hash
-    
 end
 
 def changing_alan
